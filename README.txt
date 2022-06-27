@@ -1,6 +1,7 @@
 【事前設定】
 <Unity側>
-　AIX_Dialogue_for_Windows/Unity/AIX_Dialogue_Data/setting.json に，以下の通りに書き込んでください．
+　masterブランチにあるUnity.zipを解答しmainと同じファイルに移動させてください．
+　Unity/AIX_Dialogue_Data/setting.json に，以下の通りに書き込んでください．
 
 ###
 
@@ -34,7 +35,7 @@ https://note.com/yiwase/n/n4d7eb15de9c8
 
 不明な点や不具合などがございましたら以下の連絡先まで連絡お願いします．
 
-国立大学法人 電気通信大学 I類 メディア情報学プログラム 4年
-1810011 秋山一馬
+国立大学法人 電気通信大学 情報学専攻　稲葉研究室
+2230003 秋山一馬
 TEL: 090-2327-0493
-MAIL: a1810011@edu.cc.uec.ac.jp
+MAIL: a2230003@edu.cc.uec.ac.jp
